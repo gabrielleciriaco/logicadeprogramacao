@@ -1,2 +1,2 @@
-# logicadeprogramacao
-Repositório de Portugol, referente ao bootcamp da SOULCODE | Módulo Lógica de Programação
+# Lógica de Programação
+Repositório de Portugol, referente ao bootcamp da SOULCODE | Módulo 1
